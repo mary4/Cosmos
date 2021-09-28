@@ -6039,11 +6039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mside\\Documents\\FatTail\\cosmos\\Services2\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\mside\\Documents\\FatTail\\cosmos\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\mside\\Documents\\FatTail\\cosmos\\Services2\\Services.csproj",
+      "projectPath": "C:\\Users\\mside\\Documents\\FatTail\\cosmos\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\mside\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mside\\Documents\\FatTail\\cosmos\\Services2\\obj\\",
+      "outputPath": "C:\\Users\\mside\\Documents\\FatTail\\cosmos\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mside\\AppData\\Roaming\\NuGet\\NuGet.Config",
